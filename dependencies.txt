@@ -1,0 +1,10 @@
+ProjectA:ProjectB,ProjectC
+ProjectB:ProjectD,ProjectE
+ProjectC:ProjectF
+ProjectD:
+ProjectE:ProjectF,ProjectG
+ProjectF:
+ProjectG:ProjectH
+ProjectH:ProjectI
+ProjectI:ProjectJ
+ProjectJ:
