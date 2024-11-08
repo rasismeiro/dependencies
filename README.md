@@ -1,6 +1,6 @@
 # dependencies
-bash script to return dependencies and dependents from a matrix
+ - Script that returns dependencies and dependents from a matrix
 
-``` find.sh dependents ProjectJ ```
+``` > ./find.sh dependents ProjectJ ```
 
-``` find.sh dependencies ProjectA ```
+``` > ./find.sh dependencies ProjectA ```
