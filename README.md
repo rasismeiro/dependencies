@@ -1,2 +1,6 @@
 # dependencies
-bash script to calculate dependencies and dependents from a matrix 
+bash script to return dependencies and dependents from a matrix
+
+``` find.sh dependents ProjectJ ```
+
+``` find.sh dependencies ProjectA ```
